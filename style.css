@@ -1,0 +1,24 @@
+body {
+  background: lightgrey;
+  
+}
+p, ol, h2 {
+  color: darkolivegreen;
+  font-family: sans-serif;
+}
+li{
+  padding-top: 10px;
+}
+h1 {
+  font-weight: bold;
+  color: darkgreen;
+}
+footer {
+  color: grey;
+  position:fixed;
+  top: 0px;
+  font-style: italic;
+  font-size: 0.6em;
+  background: white;
+  width: 100%
+}
